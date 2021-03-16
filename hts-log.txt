@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 16 Mar 2021 13:16:51 at https://tecate.com https://tecate.com/cerveza-tecate-RETAILERS +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://tecate.com https://tecate.com/cerveza-tecate-RETAILERS -O1 "C:\Users\Quantumsys\Downloads\httrack\tecate3" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:18:18	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://tecate.com/)
+13:18:30	Error: 	"Unauthorized" (401) at link https://tecate.com/manifiesto (from https://tecate.com/)
+13:18:51	Error: 	"Not Found" (404) at link https://tecate.com/fonts/DINPro-Regular.woff2 (from https://tecate.com/css/app.css)
+13:18:51	Error: 	"Not Found" (404) at link https://tecate.com/fonts/DINPro-Bold.woff2 (from https://tecate.com/css/app.css)
+13:18:51	Error: 	"Unauthorized" (401) at link https://tecate.com/pase-lo-que-pase-siempre-amigos (from https://tecate.com/cat/asi-somos)
+13:18:51	Error: 	"Unauthorized" (401) at link https://tecate.com/streaming-posada-entre-brothers (from https://tecate.com/cat/asi-somos)
+13:18:53	Error: 	"Unauthorized" (401) at link https://tecate.com/somos-tecate (from https://tecate.com/xeerpa/widget/index.html)
+13:18:53	Error: 	"Unauthorized" (401) at link https://tecate.com/POST (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 2 seconds : 148 links scanned, 139 files written (28532200 bytes overall) [26962915 bytes received at 221007 bytes/sec], 2388201 bytes transferred using HTTP compression in 44 files, ratio 32%
+(8 errors, 0 warnings, 0 messages)
